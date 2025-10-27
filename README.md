@@ -58,4 +58,4 @@ I'm always open to collaborating on interesting projects and discussing new tech
 
 
 ---
-*This README was generated to be professional and informative, based on the analysis of your pinned repositories.*
+
