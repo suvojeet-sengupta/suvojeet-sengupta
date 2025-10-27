@@ -54,8 +54,8 @@ I'm always open to collaborating on interesting projects and discussing new tech
 | :--- | :--- |
 | **Website** | [suvojeetsengupta.in](https://www.suvojeetsengupta.in) |
 | **GitHub** | [@suvojeet-sengupta](https://github.com/suvojeet-sengupta) |
-| **Email** | (You can add your professional email here) |
-| **LinkedIn** | (You can add your LinkedIn profile link here) |
+| **Email** | [suvojeetsengupta@zohomail.in](mailto:suvojeetsengupta@zohomail.in) |
+
 
 ---
 *This README was generated to be professional and informative, based on the analysis of your pinned repositories.*
