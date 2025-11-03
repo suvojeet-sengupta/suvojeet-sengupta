@@ -1,21 +1,28 @@
 # Hi there, I'm Suvojeet Sengupta 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=A+passionate+and+dedicated+Full-Stack+Developer;A+Mobile+Application+Developer;Solving+real-world+problems+with+code." alt="Typing SVG" />
+</p>
+
 A passionate and dedicated **Full-Stack Developer** and **Mobile Application Developer** with a focus on building robust, scalable, and user-centric applications. I specialize in leveraging modern technologies to solve real-world problems.
+
+---
 
 ## 🚀 My Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile Development** | Dart (Flutter), Kotlin, Android |
-| **Frontend** | JavaScript, HTML, CSS |
-| **Backend/APIs** | (Implied from Full-Stack focus - will add more when project details are clearer) |
-| **Tools & Platforms** | Git, GitHub |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,js,html,css,git,github,vscode,figma,firebase,mongodb,mysql,nodejs,express,react,nextjs" />
+  </a>
+</p>
 
 ---
 
 ## ✨ Pinned Projects
 
-Here are some of my key projects that showcase my skills and passion for development.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/projects_header.svg" alt="Projects Header" />
+</p>
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
@@ -30,6 +37,10 @@ Here are some of my key projects that showcase my skills and passion for develop
 
 ## 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/stats_header.svg" alt="Stats Header" />
+</p>
+
 | Stats | Value |
 | :--- | :--- |
 | **Total Stars** | 2+ (from pinned repos) |
@@ -37,16 +48,17 @@ Here are some of my key projects that showcase my skills and passion for develop
 | **Focus** | Mobile App Development, Web Development |
 
 <p align="center">
-  <!-- Placeholder for GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=radical" alt="Suvojeet's GitHub Stats" />
-  
-  <!-- Placeholder for Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvojeet-sengupta&layout=compact&theme=radical" alt="Suvojeet's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&line_height=21" alt="Suvojeet's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvojeet-sengupta&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Suvojeet's Top Languages" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/connect_header.svg" alt="Connect Header" />
+</p>
 
 I'm always open to collaborating on interesting projects and discussing new technology. Feel free to reach out!
 
@@ -56,6 +68,10 @@ I'm always open to collaborating on interesting projects and discussing new tech
 | **GitHub** | [@suvojeet-sengupta](https://github.com/suvojeet-sengupta) |
 | **Email** | [suvojeetsengupta@zohomail.in](mailto:suvojeetsengupta@zohomail.in) |
 
+<p align="center">
+  <a href="https://www.suvojeetsengupta.in"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/suvojeet-sengupta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:suvojeetsengupta@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-
