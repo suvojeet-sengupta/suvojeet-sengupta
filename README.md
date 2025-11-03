@@ -24,14 +24,14 @@ A passionate and dedicated **Full-Stack Developer** and **Mobile Application Dev
   <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/projects_header.svg" alt="Projects Header" />
 </p>
 
-| Project | Description | Tech Stack | Status |
-| :--- | :--- | :--- | :--- |
-| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform application likely focused on advisory or management tasks. | `Dart (Flutter)` | Work in Progress |
-| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A mobile application for weather forecasting, demonstrating proficiency in mobile UI/UX and API integration. | `Dart (Flutter)` | Work in Progress |
-| **[Notes](https://github.com/suvojeet-sengupta/Notes)** | A native Android application for note-taking, built with modern Android development practices. | `Kotlin` | Work in Progress |
-| **[issue_tracker](https://github.com/suvojeet-sengupta/issue_tracker)** | A system or application designed for tracking and managing software issues or tasks. | `Dart (Flutter)` | Work in Progress |
-| **[Technology-blog](https://github.com/suvojeet-sengupta/Technology-blog)** | A personal blog or website focused on technology topics, showcasing web development skills. | `HTML`, `CSS` | Live Site |
-| **[Suvojeet_Sengupta](https://www.suvojeetsengupta.in)** | My personal portfolio website, serving as a central hub for my work and professional information. | `JavaScript` | Live Site |
+| Project | Description | Tech Stack | Stars | Last Updated |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform application likely focused on advisory or management tasks. | `Dart (Flutter)` | 1 | 2025-10-31 |
+| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A mobile application for weather forecasting, demonstrating proficiency in mobile UI/UX and API integration. | `Dart (Flutter)` | 1 | 2025-11-02 |
+| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A native Android application for note-taking, built with modern Android development practices. | `Kotlin` | 0 | 2025-11-03 |
+| **[issue_tracker](https://github.com/suvojeet-sengupta/issue_tracker)** | A system or application designed for tracking and managing software issues or tasks. | `Dart (Flutter)` | 0 | 2025-10-25 |
+| **[Technology-blog](https://github.com/suvojeet-sengupta/Technology-blog)** | A personal blog or website focused on technology topics, showcasing web development skills. | `HTML` | 0 | 2025-11-03 |
+| **[Suvojeet_Sengupta](https://www.suvojeetsengupta.in)** | My personal portfolio website, serving as a central hub for my work and professional information. | `JavaScript` | N/A | N/A |
 
 ---
 
