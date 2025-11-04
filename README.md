@@ -22,17 +22,7 @@ A passionate and dedicated **Full-Stack Developer** and **Mobile Application Dev
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
 </p>
 
-### Backend Development
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-</p>
 
 ### Tools & Others
 
