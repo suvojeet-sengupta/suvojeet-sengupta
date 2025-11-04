@@ -10,10 +10,34 @@ A passionate and dedicated **Full-Stack Developer** and **Mobile Application Dev
 
 ## 🚀 My Tech Stack
 
+### Mobile Development
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,js,html,css,git,github,vscode,figma,firebase,mongodb,mysql,nodejs,express,react,nextjs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
+</p>
+
+### Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
+</p>
+
+### Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
+</p>
+
+### Tools & Others
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ---
@@ -37,9 +61,7 @@ A passionate and dedicated **Full-Stack Developer** and **Mobile Application Dev
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/stats_header.svg" alt="Stats Header" />
-</p>
+
 
 | Stats | Value |
 | :--- | :--- |
@@ -56,9 +78,7 @@ A passionate and dedicated **Full-Stack Developer** and **Mobile Application Dev
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/connect_header.svg" alt="Connect Header" />
-</p>
+
 
 I'm always open to collaborating on interesting projects and discussing new technology. Feel free to reach out!
 
