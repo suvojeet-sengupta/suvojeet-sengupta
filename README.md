@@ -1,87 +1,83 @@
 # Hi there, I'm Suvojeet Sengupta 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&width=435&lines=A+passionate+and+dedicated+Full-Stack+Developer;A+Mobile+Application+Developer;Solving+real-world+problems+with+code." alt="Typing SVG" />
-</p>
-
-A passionate and dedicated **Full-Stack Developer** and **Mobile Application Developer** with a focus on building robust, scalable, and user-centric applications. I specialize in leveraging modern technologies to solve real-world problems.
-
----
-
-## 🚀 My Tech Stack
-
-### Mobile Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
-</p>
-
-### Frontend Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
-</p>
-
-
-
-### Tools & Others
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;Passionate+Singer+🎤;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
 
-## ✨ Pinned Projects
+### 💫 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/suvojeet-sengupta/suvojeet-sengupta/main/assets/projects_header.svg" alt="Projects Header" />
-</p>
+I am a passionate **Full-Stack Developer** and **Mobile Application Developer** based in India 🇮🇳. I specialize in building robust, scalable, and user-centric applications that solve real-world problems. 
 
-| Project | Description | Tech Stack | Stars | Last Updated |
-| :--- | :--- | :--- | :--- | :--- |
-| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform application likely focused on advisory or management tasks. | `Dart (Flutter)` | 1 | 2025-10-31 |
-| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A mobile application for weather forecasting, demonstrating proficiency in mobile UI/UX and API integration. | `Dart (Flutter)` | 1 | 2025-11-02 |
-| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A native Android application for note-taking, built with modern Android development practices. | `Kotlin` | 0 | 2025-11-03 |
-| **[issue_tracker](https://github.com/suvojeet-sengupta/issue_tracker)** | A system or application designed for tracking and managing software issues or tasks. | `Dart (Flutter)` | 0 | 2025-10-25 |
-| **[Technology-blog](https://github.com/suvojeet-sengupta/Technology-blog)** | A personal blog or website focused on technology topics, showcasing web development skills. | `HTML` | 0 | 2025-11-03 |
-| **[Suvojeet_Sengupta](https://www.suvojeetsengupta.in)** | My personal portfolio website, serving as a central hub for my work and professional information. | `JavaScript` | N/A | N/A |
+Beyond the world of code, I am a **Singer, Performer, and Composer** 🎤. I believe that creativity and logic go hand-in-hand, whether I'm architecting a database or performing on stage.
+
+- 🔭 I’m currently working on enhancing my skills in **Android & Flutter**.
+- 🌱 I’m currently learning **Advanced Backend Architectures**.
+- 👯 I’m looking to collaborate on **Open Source Projects** and **Creative Tech**.
+- 💬 Ask me about **Flutter, Kotlin, or Music!**
+- ⚡ Fun fact: I blend my passion for music and tech to create unique digital experiences.
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 Tech Stack
 
+<div align="center">
 
-
-| Stats | Value |
+| **Category** | **Tools & Technologies** |
 | :--- | :--- |
-| **Total Stars** | 2+ (from pinned repos) |
-| **Most Used Language** | Dart (Flutter) |
-| **Focus** | Mobile App Development, Web Development |
+| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,dart,js,html,css,py,cpp,bash" /> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,androidstudio" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /> |
+
+</div>
+
+---
+
+### 🛠️ Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Stars |
+| :--- | :--- | :--- | :--- |
+| **[SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic)** | A feature-rich music application built for a seamless listening experience. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/SuvMusic?style=flat-square) |
+| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A modern, intuitive note-taking application for Android. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/NoteNext?style=flat-square) |
+| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A beautiful weather forecasting app with real-time updates. | `Flutter` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/AuroraWeather?style=flat-square) |
+| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform advisory management tool. | `Flutter` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/Advisor-Desk?style=flat-square) |
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&line_height=21" alt="Suvojeet's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvojeet-sengupta&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Suvojeet's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&line_height=21" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvojeet-sengupta&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvojeet-sengupta&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🤝 Let's Connect
-
-
-
-I'm always open to collaborating on interesting projects and discussing new technology. Feel free to reach out!
-
-| Platform | Link |
-| :--- | :--- |
-| **Website** | [suvojeetsengupta.in](https://www.suvojeetsengupta.in) |
-| **GitHub** | [@suvojeet-sengupta](https://github.com/suvojeet-sengupta) |
-| **Email** | [suvojeetsengupta@zohomail.in](mailto:suvojeetsengupta@zohomail.in) |
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.suvojeetsengupta.in"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="https://github.com/suvojeet-sengupta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:suvojeetsengupta@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://youtube.com/@suvojeetsengupta?si=xmXfnPFgxoYOzuzq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/suvojeet__sengupta?igsh=MWhyMXE4YzhxaDVvNg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/suvojeetsengupta21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suvojeet-sengupta&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Bolne wale sirf shor karte hain, dekhne wale khel samajh jate hain." ♟️</i>
+</p>
