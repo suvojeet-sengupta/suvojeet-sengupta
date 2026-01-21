@@ -1,55 +1,50 @@
 # Hi there, I'm Suvojeet Sengupta 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Mobile+App+Developer;Passionate+Singer+🎤;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=AI-Augmented+Engineer;System+Architect;Mobile+Product+Builder;Passionate+Singer+🎤" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 About Me
+### 💫 The "Vibe" Engineer
 
-I am a passionate **Full-Stack Developer** and **Mobile Application Developer** based in India 🇮🇳. I specialize in building robust, scalable, and user-centric applications that solve real-world problems. 
+I am a **Product-First Software Engineer** based in India 🇮🇳 who bridges the gap between **Complex Logic** and **Production Code**.
 
-Beyond the world of code, I am a **Singer, Performer, and Composer** 🎤. I believe that creativity and logic go hand-in-hand, whether I'm architecting a database or performing on stage.
+I define myself as a **"Vibe Coder"** — I focus heavily on Research, System Design, and Architecture, leveraging modern AI tools to translate my logic into high-performance code. I don't just write syntax; I engineer solutions. This allows me to build complex, scalable applications like **SuvMusic** and **NoteNext** with the speed of a team, but the precision of a solo architect.
 
-- 🔭 I’m currently working on enhancing my skills in **Android & Flutter**.
-- 🌱 I’m currently learning **Advanced Backend Architectures**.
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Creative Tech**.
-- 💬 Ask me about **Flutter, Kotlin, or Music!**
-- ⚡ Fun fact: I blend my passion for music and tech to create unique digital experiences.
+- 🧠 **My Superpower**: I understand how technology works (Memory, APIs, Encryption) and orchestrate AI to build it exactly how I envision.
+- 🔭 **Currently Building**: Advanced streaming algorithms & Secure data vaults.
+- 🎤 **Beyond Code**: A Singer & Composer who believes coding has the same rhythm as music.
 
 ---
 
-### 🚀 Tech Stack
+### 🧠 Engineering Philosophy
+
+I follow a **Logic-First, Syntax-Second** approach to software development:
+
+1.  **Deep Research**: I analyze documentation (Android/Jetpack, FFmpeg) to understand the "under-the-hood" mechanics before writing a single line.
+2.  **Architecture Design**: I plan the entire flow using MVVM, Clean Architecture, and UML diagrams to ensure scalability.
+3.  **AI Orchestration**: I utilize Generative AI as a high-speed compiler to generate boilerplate and implement logic blocks, while I strictly review, debug, and optimize the output.
+
+**Result**: Production-grade applications built at 3x the speed of traditional development cycles.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 
 <div align="center">
 
 | **Category** | **Tools & Technologies** |
 | :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=kotlin,dart,js,html,css,py,cpp,bash" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=kotlin,dart,js,py,cpp,bash" /> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,androidstudio" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /> |
+| **AI & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /> |
 
 </div>
 
 ---
 
-### 🛠️ Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Stars |
-| :--- | :--- | :--- | :--- |
-| **[SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic)** | A feature-rich music application built for a seamless listening experience. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/SuvMusic?style=flat-square) |
-| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A modern, intuitive note-taking application for Android. | `Kotlin` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/NoteNext?style=flat-square) |
-| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A beautiful weather forecasting app with real-time updates. | `Flutter` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/AuroraWeather?style=flat-square) |
-| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform advisory management tool. | `Flutter` | ![Stars](https://img.shields.io/github/stars/suvojeet-sengupta/Advisor-Desk?style=flat-square) |
-
-</div>
-
----
-
-### 📊 GitHub Analytics
+### 📊 Engineering Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&line_height=21" alt="GitHub Stats" />
@@ -62,7 +57,7 @@ Beyond the world of code, I am a **Singer, Performer, and Composer** 🎤. I bel
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 Connect with the Architect
 
 <p align="center">
   <a href="https://www.suvojeetsengupta.in"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=About.me&logoColor=white" /></a>
@@ -75,7 +70,7 @@ Beyond the world of code, I am a **Singer, Performer, and Composer** 🎤. I bel
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suvojeet-sengupta&color=00BFFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=suvojeet-sengupta&color=00BFFF&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views" />
 </p>
 
 <p align="center">
