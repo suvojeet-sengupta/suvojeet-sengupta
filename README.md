@@ -1,78 +1,109 @@
-# Hi there, I'm Suvojeet Sengupta 👋
+# Suvojeet Sengupta: System Architect | AI-Augmented Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=AI-Augmented+Engineer;System+Architect;Mobile+Product+Builder;Passionate+Singer+🎤" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Product-First+Software+Engineer;System+Architecture+Specialist;Mobile+Application+Development;AI-Augmented+Engineering+Workflow" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💫 The "Vibe" Engineer
+## 1. Professional Profile: The Vibe Architect
 
-I am a **Product-First Software Engineer** based in India 🇮🇳 who bridges the gap between **Complex Logic** and **Production Code**.
+I am a **Product-First Software Engineer** and **System Architect** based in India, specializing in the full-stack development lifecycle with a strong focus on mobile platforms (Android/Flutter). My core mission is to translate complex, high-level product requirements into robust, scalable, and maintainable production code.
 
-I define myself as a **"Vibe Coder"** — I focus heavily on Research, System Design, and Architecture, leveraging modern AI tools to translate my logic into high-performance code. I don't just write syntax; I engineer solutions. This allows me to build complex, scalable applications like **SuvMusic** and **NoteNext** with the speed of a team, but the precision of a solo architect.
+I operate as a **"Vibe Coder"**: a methodology that prioritizes deep, foundational understanding and architectural design over rapid, unoptimized syntax generation. This approach allows me to function as a highly efficient, AI-augmented solo architect, delivering complex applications like **SuvMusic** and **NoteNext** with enterprise-grade precision.
 
-- 🧠 **My Superpower**: I understand how technology works (Memory, APIs, Encryption) and orchestrate AI to build it exactly how I envision.
-- 🔭 **Currently Building**: Advanced streaming algorithms & Secure data vaults.
-- 🎤 **Beyond Code**: A Singer & Composer who believes coding has the same rhythm as music.
+### Core Competencies
 
----
-
-### 🧠 Engineering Philosophy
-
-I follow a **Logic-First, Syntax-Second** approach to software development:
-
-1.  **Deep Research**: I analyze documentation (Android/Jetpack, FFmpeg) to understand the "under-the-hood" mechanics before writing a single line.
-2.  **Architecture Design**: I plan the entire flow using MVVM, Clean Architecture, and UML diagrams to ensure scalability.
-3.  **AI Orchestration**: I utilize Generative AI as a high-speed compiler to generate boilerplate and implement logic blocks, while I strictly review, debug, and optimize the output.
-
-**Result**: Production-grade applications built at 3x the speed of traditional development cycles.
+| Domain | Focus Area | Key Technologies |
+| :--- | :--- | :--- |
+| **System Architecture** | Scalability, Data Flow, Security, Performance Optimization | MVVM, Clean Architecture, UML, Encryption Protocols |
+| **Mobile Development** | Native & Cross-Platform Application Engineering | Kotlin, Dart, Flutter, Android Jetpack |
+| **AI Integration** | Workflow Augmentation, Code Generation, Debugging, Optimization | Generative AI Orchestration, Prompt Engineering |
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+## 2. Engineering Philosophy: Logic-First Development
+
+My development process is a structured, three-stage pipeline designed for maximum efficiency and code quality. This **Logic-First, Syntax-Second** methodology ensures that every line of code serves a validated architectural purpose.
+
+### The Three-Stage Pipeline
+
+1.  **Deep Research & Validation**:
+    *   **Objective**: Establish a complete, low-level understanding of all underlying technologies and dependencies.
+    *   **Action**: Meticulous analysis of official documentation (e.g., Android Jetpack, FFmpeg specifications, API contracts) to determine the optimal technical path.
+    *   **Outcome**: A validated, performance-guaranteed technical specification.
+
+2.  **Architectural Design & Planning**:
+    *   **Objective**: Define the entire system structure before implementation begins.
+    *   **Action**: Creation of detailed architectural blueprints using design patterns (MVVM, Clean Architecture) and visual modeling (UML diagrams) to ensure modularity and future scalability.
+    *   **Outcome**: A comprehensive, debugged system flow, minimizing runtime errors and refactoring needs.
+
+3.  **AI Orchestration & Optimization**:
+    *   **Objective**: Accelerate implementation while maintaining strict quality control.
+    *   **Action**: Utilizing Generative AI as a high-speed compiler for generating boilerplate code and implementing logic blocks. This is followed by rigorous manual review, debugging, and performance optimization of the AI-generated output.
+    *   **Outcome**: Production-grade applications delivered with a significant reduction in development time.
+
+---
+
+## 3. Technical Arsenal
+
+A curated selection of the technologies and tools I leverage in my engineering workflow.
 
 <div align="center">
 
-| **Category** | **Tools & Technologies** |
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **Core Languages** | <img src="https://skillicons.dev/icons?i=kotlin,dart,js,py,cpp,bash" /> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,androidstudio" /> |
-| **AI & Workflow** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux" /> |
+| **Core Languages** | <img src="https://skillicons.dev/icons?i=kotlin,dart,js,py,cpp,bash&theme=dark" /> |
+| **Frameworks & Platforms** | <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,androidstudio&theme=dark" /> |
+| **Development Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux&theme=dark" /> |
 
 </div>
 
 ---
 
-### 📊 Engineering Analytics
+## 4. Featured Projects
+
+Highlighting key projects that demonstrate architectural complexity and product-first thinking.
+
+| Project | Description | Primary Technology | Stars | Last Updated |
+| :--- | :--- | :--- | :--- | :--- |
+| **[SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic)** | A high-performance music application demonstrating advanced streaming and media handling capabilities. | `Kotlin` | 35 | 2026-01-21 |
+| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A modern, intuitive note-taking application built with native Android best practices. | `Kotlin` | 4 | 2026-01-20 |
+| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A cross-platform weather application showcasing complex API integration and responsive UI design. | `Dart (Flutter)` | 3 | 2026-01-20 |
+| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform advisory management tool, focusing on secure data management and user roles. | `Dart (Flutter)` | 2 | 2026-01-20 |
+
+---
+
+## 5. Engineering Metrics
+
+Real-time analytics reflecting my engagement and contribution to the open-source ecosystem.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF&line_height=21" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suvojeet-sengupta&show_icons=true&theme=dark&hide_border=true&title_color=2196F3&icon_color=2196F3&line_height=21" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvojeet-sengupta&layout=compact&theme=radical&hide_border=true&title_color=00BFFF&icon_color=00BFFF" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvojeet-sengupta&theme=radical&hide_border=true&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvojeet-sengupta&layout=compact&theme=dark&hide_border=true&title_color=2196F3&icon_color=2196F3" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvojeet-sengupta&theme=dark&hide_border=true&stroke=2196F3&ring=2196F3&fire=2196F3&currStreakLabel=2196F3" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Connect with the Architect
+## 6. Contact & Collaboration
+
+I am open to discussing new architectural challenges, collaboration opportunities, and complex system design problems.
+
+| Platform | Handle / Link |
+| :--- | :--- |
+| **Personal Website** | [suvojeetsengupta.in](https://www.suvojeetsengupta.in) |
+| **Email (Professional)** | [suvojeetsengupta@zohomail.in](mailto:suvojeetsengupta@zohomail.in) |
+| **YouTube (Creative)** | [@suvojeetsengupta](https://youtube.com/@suvojeetsengupta?si=xmXfnPFgxoYOzuzq) |
+| **Instagram (Creative)** | [@suvojeet__sengupta](https://www.instagram.com/suvojeet__sengupta?igsh=MWhyMXE4YzhxaDVvNg==) |
 
 <p align="center">
-  <a href="https://www.suvojeetsengupta.in"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-  <a href="mailto:suvojeetsengupta@zohomail.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://youtube.com/@suvojeetsengupta?si=xmXfnPFgxoYOzuzq"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/suvojeet__sengupta?igsh=MWhyMXE4YzhxaDVvNg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/suvojeetsengupta21"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=suvojeet-sengupta&color=2196F3&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suvojeet-sengupta&color=00BFFF&style=flat-square&label=SYSTEM+VISITS" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"Bolne wale sirf shor karte hain, dekhne wale khel samajh jate hain." ♟️</i>
+  *“Bolne wale sirf shor karte hain, dekhne wale khel samajh jate hain.”*
 </p>
