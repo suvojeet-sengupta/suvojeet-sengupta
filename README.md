@@ -67,10 +67,11 @@ Highlighting key projects that demonstrate architectural complexity and product-
 
 | Project | Description | Primary Technology | Stars | Last Updated |
 | :--- | :--- | :--- | :--- | :--- |
-| **[SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic)** | A high-performance music application demonstrating advanced streaming and media handling capabilities. | `Kotlin` | 35 | 2026-01-21 |
-| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A modern, intuitive note-taking application built with native Android best practices. | `Kotlin` | 4 | 2026-01-20 |
-| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A cross-platform weather application showcasing complex API integration and responsive UI design. | `Dart (Flutter)` | 3 | 2026-01-20 |
-| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform advisory management tool, focusing on secure data management and user roles. | `Dart (Flutter)` | 2 | 2026-01-20 |
+| **[SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic)** | A high-performance music application demonstrating advanced streaming and media handling capabilities. | `Kotlin` | 43 | 2026-01-25 |
+| **[NoteNext](https://github.com/suvojeet-sengupta/NoteNext)** | A modern, intuitive note-taking application built with native Android best practices. | `Kotlin` | 4 | 2026-01-06 |
+| **[AuroraWeather](https://github.com/suvojeet-sengupta/AuroraWeather)** | A cross-platform weather application showcasing complex API integration and responsive UI design. | `Dart (Flutter)` | 3 | 2025-12-22 |
+| **[Advisor-Desk](https://github.com/suvojeet-sengupta/Advisor-Desk)** | A cross-platform advisory management tool, focusing on secure data management and user roles. | `Dart (Flutter)` | 2 | 2025-12-26 |
+| **[Automated News Website](https://github.com/suvojeet-sengupta/automated_news_website)** | A project demonstrating automated content generation and deployment for a news website. | `HTML` | 0 | 2026-01-25 |
 
 ---
 
